@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* import {sentinel3} from './assets/sentinel3.jpg'; */
+
+body {
+  background-color: #000300;
+  /* background-image: image(./assets/sentinel3.jpg); */
+}
