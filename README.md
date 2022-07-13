@@ -1,5 +1,11 @@
 # Santrupti-HUNGER ENDS HERE
 
+## Preview Images
+![alt text](https://user-images.githubusercontent.com/85569489/178806575-b50439b1-a14c-4cba-b442-98dd688d83fe.png)
+![alt text](https://user-images.githubusercontent.com/85569489/178806799-bac12398-49c5-480d-a72c-9e7a15ef024b.png)
+![alt text](https://user-images.githubusercontent.com/85569489/178806966-7b74da04-cf11-427b-8db2-9649cd5a101c.png)
+
+
 
 # Inspiration
 			          
